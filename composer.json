@@ -1,0 +1,14 @@
+{
+    "name": "larakit/sf-angular-ui-switch",
+    "description": "[Larakit] [staticfiles] sf-angular-ui-switch",
+    "version": "1.0.0",
+    "license": "MIT",
+    "require":{
+        "larakit/sf-angular":"*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
