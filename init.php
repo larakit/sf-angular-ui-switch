@@ -12,3 +12,4 @@
     ->jsPackage('angular-ui-switch.js')
     ->cssPackage('angular-ui-switch.css')
 ;
+\Larakit\LkNgModule::register('uiSwitch');
